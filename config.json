@@ -1,0 +1,16 @@
+{
+  "input_shape": [1, 3, 224, 224],
+  "model": "mobilenet",
+  "mean": [0.485, 0.456, 0.406],
+  "std": [0.229, 0.224, 0.225],
+  "labels": {
+    "0": "cat",
+    "1": "dog"
+  },
+  "format": "coreml",
+  "files": [
+    "animal_classifier.mlpackage/Manifest.json",
+    "animal_classifier.mlpackage/Data/com.apple.CoreML/model.mlmodel",
+    "animal_classifier.mlpackage/Data/com.apple.CoreML/weights/weight.bin"
+  ]
+}
