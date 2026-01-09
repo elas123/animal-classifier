@@ -1,7 +1,6 @@
 {
-  "labels": [
-    "cat",
-    "dog"
-  ],
-  "inputSize": 224
+  "name": "animal-classifier",
+  "classes": ["cat", "dog"],
+  "inputSize": [224, 224],
+  "inputFormat": "rgb"
 }
