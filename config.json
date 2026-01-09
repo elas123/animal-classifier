@@ -9,8 +9,8 @@
   },
   "format": "coreml",
   "files": [
-    "animal_classifier.mlpackage/Manifest.json",
-    "animal_classifier.mlpackage/Data/com.apple.CoreML/model.mlmodel",
-    "animal_classifier.mlpackage/Data/com.apple.CoreML/weights/weight.bin"
+    "model.mlpackage/Manifest.json",
+    "model.mlpackage/Data/com.apple.CoreML/model.mlmodel",
+    "model.mlpackage/Data/com.apple.CoreML/weights/weight.bin"
   ]
 }
